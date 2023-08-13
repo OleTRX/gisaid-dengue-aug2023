@@ -8,4 +8,7 @@ Purpose:
 2. Visualize frequencies of different Dengue serotypes in GISAID.
 3. Visualize the geographic distribution of Dengue serotypes.
 
+Files included:
+Dengue-Virus-Distribution.html >>>>> R Markdown Report with all the coding for bar graphs.
+20230727_dengue_patient_metadata_combined.tsv >>>>> Raw metadata downloaded from GISAID
  
