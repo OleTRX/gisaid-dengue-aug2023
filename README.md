@@ -9,6 +9,7 @@ Purpose:
 3. Visualize the geographic distribution of Dengue serotypes.
 
 Files included:
-1. Dengue-Virus-Distribution.html >>>>> R Markdown Report with all the coding for bar graphs.
-2. 20230727_dengue_patient_metadata_combined.tsv >>>>> Raw metadata downloaded from GISAID
+1. Dengue Virus Distribution.Rmd >>>>>  R Markdown file with all the coding for bar graphs.
+2. Dengue-Virus-Distribution.html >>>>> R Markdown Report for bargraphs.
+3. 20230727_dengue_patient_metadata_combined.tsv >>>>> Raw metadata downloaded from GISAID
  
