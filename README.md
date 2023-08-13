@@ -10,6 +10,6 @@ Purpose:
 
 Files included:
 1. Dengue Virus Distribution.Rmd >>>>>  R Markdown file with all the coding for bar graphs.
-2. Dengue-Virus-Distribution.html >>>>> R Markdown Report for bargraphs.
+2. Dengue-Virus-Distribution.html >>>>> R Markdown Report for bar graphs.
 3. 20230727_dengue_patient_metadata_combined.tsv >>>>> Raw metadata downloaded from GISAID
  
